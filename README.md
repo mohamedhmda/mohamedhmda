@@ -1,6 +1,6 @@
 ## Mohamed Amine Hamaida · Full Stack Engineer
 
-CTO @ The Trybe Agency · Building fintech, SaaS, and AI-powered systems
+Building fintech, SaaS, and AI-powered systems
 
 **Current stack:** Laravel · Vue 3 · NestJS · TypeScript · Kafka · FastAPI · AWS 
 
@@ -10,9 +10,6 @@ CTO @ The Trybe Agency · Building fintech, SaaS, and AI-powered systems
 - 🏛️ UAE government portal — UAE Pass OAuth2, Laravel 12, Filament 3
 - 🤖 AI invoice parsing — GPT-4o-mini + FastAPI + OCR
 
-**Open source:**
-- [deploy-to-laravel-forge](https://github.com/the-trybe/deploy-to-laravel-forge) — GitHub Action for Laravel Forge deployments
-- [laravel-forge-utilities](https://github.com/the-trybe/laravel-forge-utilities) — Python CLI for bulk Forge operations
 
-📍 Algiers, Algeria · Open to remote Senior/Staff Engineer roles
+📍 Algiers, Algeria
 📬 mohamed.a.hamaida@gmail.com
